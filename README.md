@@ -45,6 +45,7 @@ FileListExplorer is perfect for workflows where you need to review, organize, or
 
 ---
 ## Note for Windows
+
 The video playback may not work, install the standard version of the K-Lite Codec Pack.
 https://codecguide.com/download_kl.htm
 ---
