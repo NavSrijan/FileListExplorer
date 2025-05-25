@@ -44,6 +44,10 @@ FileListExplorer is perfect for workflows where you need to review, organize, or
    - Accepts both Windows and Linux-style file paths in the CSV.
 
 ---
+## Note for Windows
+The video playback may not work, install the standard version of the K-Lite Codec Pack.
+https://codecguide.com/download_kl.htm
+---
 
 ## Sample CSV File
 
